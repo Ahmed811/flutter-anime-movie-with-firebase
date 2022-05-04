@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681423949159",
+    "project_id": "anime-movie-d7439",
+    "storage_bucket": "anime-movie-d7439.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681423949159:android:926b50bafdaf845c05b3c2",
+        "android_client_info": {
+          "package_name": "com.moviesstudio.anim_movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681423949159-le3552ndif3avnm2imivqdaenu70n9fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-pC8W_hm9wkFXtkEjGxPxuzVdAstfZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681423949159-le3552ndif3avnm2imivqdaenu70n9fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
